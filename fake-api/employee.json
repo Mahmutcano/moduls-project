@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Mahmut",
+      "department": "Yazılım",
+      "salary": 4000,
+      "id": 1
+    },
+    {
+      "name": "Elvin",
+      "department": "Psikoloji",
+      "salary": 5000,
+      "id": 2
+    },
+    {
+      "name": "Mahmut Özgan",
+      "department": "Yazılım",
+      "salary": 10000,
+      "id": 3
+    },
+    {
+      "name": "Mahmut Özgan",
+      "department": "İşçi",
+      "salary": 3000,
+      "id": 4
+    },
+    {
+      "name": "Mahmut Özgan",
+      "department": "İşçi",
+      "salary": 3000,
+      "id": 5
+    }
+  ]
+}
